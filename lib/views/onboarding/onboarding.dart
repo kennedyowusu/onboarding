@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:mail_box/constant/images.dart';
 import 'package:mail_box/model/onboarding.dart';
 import 'package:mail_box/views/home/home.dart';
 import 'package:mail_box/views/onboarding/dot_indicator.dart';
